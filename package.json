@@ -79,5 +79,8 @@
   },
   "msw": {
     "workerDirectory": "public"
+  },
+  "volta": {
+    "node": "19.9.0"
   }
 }
